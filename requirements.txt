@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+pillow
+requests
+tqdm
+faiss-cpu
+open-clip-torch
+torch
+torchvision
+matplotlib
+pydantic
+python-dotenv
+orjson
+imageio
+yt-dlp
+rapidfuzz
